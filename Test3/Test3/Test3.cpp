@@ -23,3 +23,4 @@ int main(array<System::String ^> ^args)
 // ciekawy program
 // wybitna edycja
 // kolejna super turbo linia
+//nowy branch kolejna zmiana
